@@ -25,7 +25,7 @@ This is a simple clone of the popular game **Flappy Bird** developed in Java usi
 ## Requirements
 
 - **Java Development Kit (JDK)**: Ensure that JDK 8 or above is installed on your system.
-- **IDE**: You can use any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse, NetBeans).
+- **IDE**: You can use any IDE that supports Java (e.g., VScode, IntelliJ IDEA, Eclipse, NetBeans).
 
 ## License
 
