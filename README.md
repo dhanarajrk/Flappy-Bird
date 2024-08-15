@@ -19,7 +19,7 @@ This is a simple clone of the popular game **Flappy Bird** developed in Java usi
 
 ## Game Preview
 
-![Gameplay Screenshot](/flappy_bird_screenshot1.JPG) ![Gameplay Screenshot](/flappy_bird_screenshot2.JPG)
+![Gameplay Screenshot](/flappy_bird_screenshot1.JPG)                    ![Gameplay Screenshot](/flappy_bird_screenshot2.JPG)
 
 ## Requirements
 
